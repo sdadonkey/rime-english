@@ -1,6 +1,7 @@
 # Rime English輸入方案
 
 本方案爲實現於Rime Weasel西文模式下輸入英文單詞而製作，所有功能均使用lua插件实现，請下載[Rime Weasel 0.14.3.148](https://bintray.com/rime/weasel/testing)。
+![computer](demo/computer.gif)
 
 ## 功能說明：
 
