@@ -12,5 +12,5 @@
 - 中文輸入法使用"朙月拼音"，請自行更改
 
 詞典制作：
-- 詞典來源於[skywind3000](https://github.com/skywind3000/ECDICT)
-- 提供EXCEL文件<english.dict.xlsx>用於同步EDICT及製作yaml詞典文件
+- 詞典來源於[skywind3000 ECDICT](https://github.com/skywind3000/ECDICT)
+- 提供EXCEL文件<english.dict.xlsx>用於同步ECDICT及製作yaml詞典文件
