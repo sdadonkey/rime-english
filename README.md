@@ -1,6 +1,6 @@
 # Rime English輸入方案
 
-本方案爲實現於Rime Weasel西文模式下輸入英文單詞而製作，所有功能均使用lua插件实现。請下載[Rime Weasel 0.14.3.148](https://bintray.com/rime/weasel/testing)
+本方案爲實現於Rime Weasel西文模式下輸入英文單詞而製作，所有功能均使用lua插件实现，請下載[Rime Weasel 0.14.3.148](https://bintray.com/rime/weasel/testing)。
 
 功能說明：
 
@@ -11,3 +11,6 @@
 - 可以將單詞註釋展開成多行或疊起爲一行
 - 中文輸入法使用"朙月拼音"，請自行更改
 
+詞典制作：
+- 詞典來源於[skywind3000](https://github.com/skywind3000/ECDICT)
+- 提供EXCEL文件<english.dict.xlsx>用於同步EDICT及製作yaml詞典文件
