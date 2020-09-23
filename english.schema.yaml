@@ -75,6 +75,7 @@ translator:                                 # 以下爲本輸入法方案配置
   enable_sentence: false
   enable_encoder: false
   enable_user_dict: false
+  delimiter: ""                             # 避免受speller/delimiter影響
   used_punct: "-.'"                         # 單詞中會用到的特殊符號
   wildcard: "`~"                            # 第一個符號匹配0到多個字符，第二個符號匹配0或1個
 
@@ -99,4 +100,8 @@ recognizer:
 
 menu:
   alternative_select_keys: 1234567890
-  page_size: 8                             # 可更改，最多10個
+  page_size: 8                              # 可更改，最多10個
+
+style:
+  horizontal: false                         # 必須爲false
+  inline_preedit: false                     # 必須爲false
