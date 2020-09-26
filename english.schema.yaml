@@ -27,10 +27,10 @@ switches:
   - name: simplification
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
-    reset: 1
+    reset: 0
     states: [ 。，, ．， ]
   - name: num_selection
-    states: [ 數字, 引用 ]
+    states: [ 🔟數字, 🔞引用 ]
   - name: fold_comments
     states: [ 展開, 疊起 ]
     
