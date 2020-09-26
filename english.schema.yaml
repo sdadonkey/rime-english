@@ -44,7 +44,7 @@ engine:
     - punctuator
     - selector
     - navigator
-    - express_editor
+    - fluency_editor                        # 按中文輸入法要求設置
   segmentors:
     - lua_segmentor@english_segmentor       # 本輸入法需要用到，需保留
     - ascii_segmentor
